@@ -1,0 +1,11 @@
+13:38:39 **** Incremental Build of configuration Debug for project ABox ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "ABox.elf"
+   text	   data	    bss	    dec	    hex	filename
+  14769	    172	  16108	  31049	   7949	ABox.elf
+Finished building: ABox.siz
+ 
+
+13:38:39 Build Finished (took 79ms)
+

@@ -1,0 +1,24 @@
+// ----- SysTick_Handler() ----------------------------------------------------
+
+
+#include "cortexm/ExceptionHandlers.h"
+
+// ----------------------------------------------------------------------------
+
+#if defined(USE_HAL_DRIVER)
+extern "C" void HAL_IncTick(void);
+#endif
+
+// ----------------------------------------------------------------------------
+
+extern "C" void
+SysTick_Handler(void)
+{
+#if defined(USE_HAL_DRIVER)
+  HAL_IncTick();
+#endif
+//  Timer::tick();
+  osSystickHandler();
+}
+
+// ----------------------------------------------------------------------------

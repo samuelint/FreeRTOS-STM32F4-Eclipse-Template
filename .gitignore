@@ -1,0 +1,61 @@
+# OSX Hidden Files
+# ———————————————————————————————————————
+.DS_Store
+Icon/r
+Icon?
+# ———————————————————————————————————————
+
+# Windows files
+# ———————————————————————————————————————
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# ———————————————————————————————————————
+
+
+# UnDesired project files
+# ---------------------------------------
+.log
+# ---------------------------------------
+
+# Eclipse Projects
+# ---------------------------------------
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# ARM Packages
+/Packages
+# ---------------------------------------

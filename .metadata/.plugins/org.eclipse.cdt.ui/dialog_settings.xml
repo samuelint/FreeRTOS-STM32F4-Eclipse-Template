@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="&quot;../include/FreeRTOS/Source/portable/GCC/ARM_CM4F&quot;" key="org.eclipse.cdt.utils.ui.controls.FileListControl"/>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="SysTick_Handler"/>
+			<item value="stm32f4xx_it"/>
+		</list>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

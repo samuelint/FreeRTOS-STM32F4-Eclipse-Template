@@ -1,0 +1,5 @@
+activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ABox Debug
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ABox\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:ABox\ Debug/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
